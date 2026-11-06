@@ -1,0 +1,12 @@
+# Cache and compiled files
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Data and outputs
+data/
+logs/
+*.parquet
+*.csv
+*.pt
+*.npy
